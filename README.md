@@ -1,3 +1,5 @@
+#### Sea Level Predictor is a project part of freeCodeCamp's [Data Analysis with Python course](https://www.freecodecamp.org/learn/data-analysis-with-python/), it's solution may be found in *sea_level_predictor.py* or in the notebook *sea-level-predictor-notebook.ipynb*.
+
 ### Assignment
 
 You will anaylize a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
